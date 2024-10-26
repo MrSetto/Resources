@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30021773-2', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '793576410979854');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=793576410979854&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2798124", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=2798124;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2798124", type: "sendEvent", category: "locale", action: "en_US", label: "en_US" });
+</script>
+<!-- /Top.Mail.Ru counter -->
+
+
+<!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3254134", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3254134;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+    <script defer="defer" src="/static/dashboard/dist/js/chunk-vendors.4865803f.js"></script><script defer="defer" src="/static/dashboard/dist/js/chunk-common.9b736a73.js"></script><script defer="defer" src="/static/dashboard/dist/js/widget.ffad65d4.js"></script><link href="/static/dashboard/dist/css/chunk-vendors.fa352017.css" rel="stylesheet"><link href="/static/dashboard/dist/css/chunk-common.b3ef1d89.css" rel="stylesheet"><link href="/static/dashboard/dist/css/widget.e5c866a7.css" rel="stylesheet">
+    <script type="text/javascript">
+        widget_version = 1;
+		document_language = 'ru_RU';
+		document_timezone = '';
+    </script>
+</head>
+<body>
+        <script type="text/javascript">
+        window.token_widget_streamer = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIyIiwianRpIjoiODgwMGE2OWRmOTUxMjc1ODY0MDhlZTUxMjVlMzI5NDc4NjM0N2RkNmY4NWU3OGE1ZDM4YTNjZmYzMmVlNzMwMGNjMmY4ZjEwZGNkNDE3YjMiLCJpYXQiOjE3Mjk5NTc2NDEuNDcwOSwibmJmIjoxNzI5OTU3NjQxLjQ3MDksImV4cCI6MTczMDU2MjQ0MS40NDQxLCJzdWIiOiI2MDUxNzQ3Iiwic2NvcGVzIjpbIndpZGdldC1zdHJlYW1lciJdfQ.RBkJzJl2BotWKebX-rblMST9evv_ryP7URwh78UJ55uTqwz4ZkICFQIQyyRJCX7hs5VJ2LyYH0aKZtsnAjzWYqSAbWCt378WOGLXTjHDT125jXRD-gJuF7hp39K7BTFYEbo9zMvRgr2_kcRclMMpOsSDJkhda2G8vxRnnjxrYCjj1SJi2JT8SfO7IYwQZHlYQAeCZcGVklwOYuOMz3bGcpQp6TaUqURwWIWul-evxUaJqHi2ASy98-9zjj3Jq4FQ8gPGHT2v4XrYNoXzfdfEFjLP8QHVv0wyGknFUm9yaQlcKJ14kBaYkNy-elExMo3ZMNlgWYbPre0o0AkMhPAryZmXJvQg5km3OGs3RUr8sj49HLIl4VR0MqdSkqseJdt2QLtJvwixzudbUFOzCDu_LTozjL7DJCtT6CfT4V_5vYI_K_kU26Ss7z5zfe5z4YFDBxI-KgxGSaB-RXyRT0DTunDMDv-aRDbJMG8jYVckg2CvkX0XwHtA0897chVgy6ThpCM6TRkVXZWnF_uLCtaSWrANLqVA5vYK4CbIyZ1DQSaEtZwqNdZMw-KV3brLpR5pGf3UfYtFBUMEMzZCiXBUhdOTOdgugsq_2PDkiTHfNmXoC4uMtUbRD8h8seQFnGXP6FLhMwzkx8aRMfrZOivXakn67qvVAeE9igvbpqVijTw";
+        window.donation_goal_widget_id = "5867863";
+        window.socket_io_host = "wss://socket4.donationalerts.ru:443";
+        window.token_centrifugo_connect = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJVc2VyOjYwNTE3NDcifQ.W57_E9yOy1ohKdxL3LFhvCXPOi_jZvyt8JN3aG99itE"
+    </script>
+    <noscript>We're sorry but widgets don't work properly without JavaScript enabled. Please enable it to continue.</noscript>
+    <div id="widget-app"></div>
+</body>
+</html>
